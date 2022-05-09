@@ -21,6 +21,8 @@ code {
   background-color: #FFFFFF;
   min-height: 100vh;
   font-size: calc(10px + 2vmin);
-  
 }
 
+.ql-container {
+  height: calc(100vh - 48px) !important;
+}
